@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/codeby-imanserelune" target="_blank">
+  <a href="https://linkedin.com/in/iman-mehak-2590b8407" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/iman_serelune" target="_blank">
