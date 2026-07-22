@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/iman-mehak-2590b8407" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/iman_serelune" target="_blank">
+  <a href="https://instagram.com/_.pathfinderofficial._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:imanserelune@gmail.com">
